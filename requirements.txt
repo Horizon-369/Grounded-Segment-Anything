@@ -21,3 +21,6 @@ yapf
 nltk
 fairscale
 litellm
+segment-anything
+-e ./GroundingDINO
+onnx
